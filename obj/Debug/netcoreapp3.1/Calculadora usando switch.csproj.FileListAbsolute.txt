@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\bin\Debug\netcoreapp3.1\Calculadora usando switch.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Calculadora usando switch\obj\Debug\netcoreapp3.1\Calculadora usando switch.genruntimeconfig.cache
